@@ -1,0 +1,33 @@
+body{
+    background: white;
+}
+
+#main_content {
+    text-align: left;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    width: 100%;
+}
+
+
+.inner_section1 {
+    display: none;
+}
+
+.inner_section2 {
+    display: none;
+}
+
+.inner_section3 {
+    display: none;
+}
+
+.inner_section4 {
+    display: none;
+}
+
+
+.section {
+    border: 1px solid gray;
+}
