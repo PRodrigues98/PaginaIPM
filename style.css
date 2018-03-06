@@ -36,6 +36,7 @@ body{
 
 .section {
     border: 1px solid black;
+    border-radius: 5px;
     background: #809fff;
 }
 
@@ -43,4 +44,11 @@ body{
     padding-left: 20px;
     color: white;
     text-shadow: 1px 1px black;
+}
+
+.section_dropdown {
+    position: relative;
+    vertical-align: middle;
+    border: 5px white;
+    border-radius: 8px;
 }
